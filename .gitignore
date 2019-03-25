@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+my_scheduler
+
+# Test files/directories
+correct/
+my_correct/
